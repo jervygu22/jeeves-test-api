@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "message": "Successfully returned users.",
+    "data": [
+        {
+            "user_id": "5",
+            "user_login": "deleteme",
+            "user_email": "deleteme@gmail.com",
+            "user_pass": "$P$BfPGL9JqWxzwpWOf2Qt1mHqqI9mROu.",
+            "user_emp_id": "",
+            "user_pin": "1111",
+            "user_handles_cash": true,
+            "user_roles": [
+                "staff"
+            ]
+        },
+        {
+            "user_id": "4",
+            "user_login": "pmcalata2",
+            "user_email": "pmcalata@codedisruptors.com",
+            "user_pass": "$P$B3OFna1/ynecqeM/bzmYc.wNxj2veQ.",
+            "user_emp_id": "",
+            "user_pin": "",
+            "user_handles_cash": false,
+            "user_roles": [
+                "supervisor"
+            ]
+        }
+    ],
+    "total_items": 2,
+    "page": 1
+}
