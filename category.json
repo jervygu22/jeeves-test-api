@@ -1,27 +1,30 @@
-[
+{
+  "categories": [
     {
-        "id": 1,
-        "category_name": "All",
-        "category_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fall_meal.png?alt=media&token=81c4a964-4ab6-40c5-8142-b2b74023f450"
+      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fall_meal.png?alt=media&token=81c4a964-4ab6-40c5-8142-b2b74023f450",
+      "category_name" : "All",
+      "id" : 1
     },
     {
-        "id": 2,
-        "category_name": "Coffee",
-        "category_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcoffee.png?alt=media&token=bd15700a-773d-4c1f-bebe-acc0f0e9db0c"
+      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcoffee.png?alt=media&token=bd15700a-773d-4c1f-bebe-acc0f0e9db0c",
+      "category_name" : "Coffee",
+      "id" : 2
     },
     {
-        "id": 3,
-        "category_name": "Juice",
-        "category_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fjuice.png?alt=media&token=0ca183fb-7c40-4c13-95ff-aa35ccf78977"
+      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fjuice.png?alt=media&token=0ca183fb-7c40-4c13-95ff-aa35ccf78977",
+      "category_name" : "Juice",
+      "id" : 3
     },
     {
-        "id": 4,
-        "category_name": "Snack",
-        "category_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f"
+      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f",
+      "category_name" : "Snack",
+      "id" : 4
     },
     {
-        "id": 5,
-        "category_name": "Pizza",
-        "category_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f"
+      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f",
+      "category_name" : "Pizza",
+      "id" : 5
     }
-]
+  ]
+
+}
