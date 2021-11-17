@@ -5,7 +5,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
         "order_qty": 1,
         "cart_qty": 3,
-        "product_price": 90
+        "product_price": 90.00
     },
     {
         "id": 12,
@@ -13,7 +13,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
         "order_qty": 1,
         "cart_qty": 0,
-        "product_price": 120
+        "product_price": 120.00
     },
     {
         "id": 13,
@@ -21,7 +21,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Famericano.png?alt=media&token=a307da47-9dc3-48db-ae1a-0bdaf3cd3254",
         "order_qty": 1,
         "cart_qty": 2,
-        "product_price": 150
+        "product_price": 150.00
     },
     {
         "id": 14,
@@ -29,7 +29,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
         "order_qty": 1,
         "cart_qty": 0,
-        "product_price": 130
+        "product_price": 130.00
     },
     {
         "id": 15,
@@ -37,7 +37,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fespresso.png?alt=media&token=19017377-01ef-4f25-ab99-572a250e9820",
         "order_qty": 1,
         "cart_qty": 0,
-        "product_price": 100
+        "product_price": 100.00
     },
     {
         "id": 16,
@@ -45,7 +45,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fred_eye.png?alt=media&token=278f6a98-ee39-4dc7-83d4-6a03f8e91d9a",
         "order_qty": 1,
         "cart_qty": 0,
-        "product_price": 160
+        "product_price": 160.00
     },
     {
         "id": 17,
@@ -53,7 +53,7 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5",
         "order_qty": 1,
         "cart_qty": 0,
-        "product_price": 140
+        "product_price": 140.00
     },
     {
         "id": 18,
@@ -61,6 +61,6 @@
         "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Firish.png?alt=media&token=618b402d-1ce0-422b-b19d-b846f1d36c8e",
         "order_qty": 1,
         "cart_qty": 0,
-        "product_price": 200
+        "product_price": 200.00
     }
 ]
