@@ -21,22 +21,22 @@
       "id" : 4
     },
     {
-      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f",
+      "category_img" : "https://cdn-icons-png.flaticon.com/512/1404/1404945.png",
       "category_name" : "Pizza",
       "id" : 5
     },
     {
-      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fjuice.png?alt=media&token=0ca183fb-7c40-4c13-95ff-aa35ccf78977",
+      "category_img" : "https://cdn-icons-png.flaticon.com/512/761/761777.png",
       "category_name" : "Beer",
       "id" : 6
     },
     {
-      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f",
+      "category_img" : "https://cdn-icons-png.flaticon.com/512/683/683974.png",
       "category_name" : "Softdrinks",
       "id" : 7
     },
     {
-      "category_img" : "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fsnack.png?alt=media&token=b0fb7fb0-88b2-4ef6-b278-d4dfebe29d7f",
+      "category_img" : "https://cdn-icons-png.flaticon.com/512/1069/1069507.png",
       "category_name" : "Appetizer",
       "id" : 8
     }

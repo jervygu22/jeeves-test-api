@@ -67,7 +67,7 @@
         {
             "id": 9,
             "product_name": "French",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fespresso.png?alt=media&token=19017377-01ef-4f25-ab99-572a250e9820",
+            "product_img": "https://upgradedhome.com/wp-content/uploads/2021/07/shutterstock_725803207.jpg",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 100.75
@@ -75,7 +75,7 @@
         {
             "id": 10,
             "product_name": "Italian",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fred_eye.png?alt=media&token=278f6a98-ee39-4dc7-83d4-6a03f8e91d9a",
+            "product_img": "https://www.summerinitaly.com/images/photos/travel_guide/2387.jpg",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 160.75
@@ -83,7 +83,7 @@
         {
             "id": 11,
             "product_name": "Filipino",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5",
+            "product_img": "https://nrev.jp/wp-content/uploads/2021/03/Coffee-in-the-Philippines-Header.png",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 140.75
@@ -91,15 +91,15 @@
         {
             "id": 12,
             "product_name": "Barako",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Firish.png?alt=media&token=618b402d-1ce0-422b-b19d-b846f1d36c8e",
+            "product_img": "https://alaehdayohome.files.wordpress.com/2019/08/barako-1.jpg",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 200.75
         },
         {
             "id": 13,
-            "product_name": "White Coffee",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fred_eye.png?alt=media&token=278f6a98-ee39-4dc7-83d4-6a03f8e91d9a",
+            "product_name": "White",
+            "product_img": "https://evzgt9xzh5h.exactdn.com/wp-content/uploads/2018/02/762f997abea631c4fce0aec35548c590.jpg",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 160.75
@@ -107,7 +107,7 @@
         {
             "id": 14,
             "product_name": "Capuccino",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5",
+            "product_img": "https://www.torani.com/sites/default/files/styles/torani_syrup_recipe_detail/public/recipes/illustration/cappuccino_7.jpg?itok=6MWQE9YN",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 140.75
@@ -115,7 +115,7 @@
         {
             "id": 15,
             "product_name": "Frappe",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Firish.png?alt=media&token=618b402d-1ce0-422b-b19d-b846f1d36c8e",
+            "product_img": "https://parade.com/wp-content/uploads/2020/03/Mocha-Coconut-Frappuccino-Simply-Stacie.jpg",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 200.75
@@ -123,31 +123,31 @@
         {
             "id": 16,
             "product_name": "Flat White",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Firish.png?alt=media&token=618b402d-1ce0-422b-b19d-b846f1d36c8e",
+            "product_img": "https://www.pngitem.com/pimgs/m/210-2105975_caff-latte-vs-latte-macchiato-hd-png-download.png",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 200.75
         },
         {
             "id": 17,
-            "product_name": "Kopiko",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fred_eye.png?alt=media&token=278f6a98-ee39-4dc7-83d4-6a03f8e91d9a",
+            "product_name": "Kopiko Brown",
+            "product_img": "https://cdn.shopify.com/s/files/1/0399/8652/8410/products/kopikobrowncoffeehanger_grande.jpg?v=1590911465",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 160.75
         },
         {
             "id": 18,
-            "product_name": "Nestcafe",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5",
+            "product_name": "Nestcafe Classic",
+            "product_img": "https://cf.shopee.com.my/file/700cc45417c729c28b0f2dc6257897bf",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 140.75
         },
         {
             "id": 19,
-            "product_name": "Sanmig",
-            "product_img": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Firish.png?alt=media&token=618b402d-1ce0-422b-b19d-b846f1d36c8e",
+            "product_name": "Sanmig Original",
+            "product_img": "https://www.sarisaristore.se/1029-large_default/san-mig-super-coffee-3-i-1-original.jpg",
             "order_qty": 1,
             "cart_qty": 0,
             "product_price": 200.75
