@@ -1,0 +1,85 @@
+{
+    "queue" : [
+        {
+            "id": 1,
+            "transaction_id": "BN_PT_pt1-1611110644126",
+            "date_time": "May 19, 2021 1:00pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 3,
+            "status": ""
+        },
+        {
+            "id": 2,
+            "transaction_id": "BN_PT_pt1-1611110644127",
+            "date_time": "May 19, 2021 1:10pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 5,
+            "status": ""
+        },
+        {
+            "id": 3,
+            "transaction_id": "BN_PT_pt1-1611110644128",
+            "date_time": "May 19, 2021 1:20pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 8,
+            "status": ""
+        },
+        {
+            "id": 4,
+            "transaction_id": "BN_PT_pt1-1611110644129",
+            "date_time": "May 19, 2021 1:30pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 3,
+            "status": ""
+        },
+        {
+            "id": 5,
+            "transaction_id": "BN_PT_pt1-1611110644130",
+            "date_time": "May 19, 2021 1:40pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 9,
+            "status": ""
+        },
+        {
+            "id": 6,
+            "transaction_id": "BN_PT_pt1-1611110644131",
+            "date_time": "May 19, 2021 1:50pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 2,
+            "status": "Cancelled"
+        },
+        {
+            "id": 7,
+            "transaction_id": "BN_PT_pt1-1611110644132",
+            "date_time": "May 19, 2021 2:00pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 2,
+            "status": "Declined"
+        },
+        {
+            "id": 8,
+            "transaction_id": "BN_PT_pt1-1611110644133",
+            "date_time": "May 19, 2021 2:10pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 1,
+            "status": "Cancelled"
+        },
+        {
+            "id": 9,
+            "transaction_id": "BN_PT_pt1-1611110644134",
+            "date_time": "May 19, 2021 2:20pm",
+            "cashier_info": "Maria Leonora Teresa",
+            "transaction_type": "Open",
+            "items": 1,
+            "status": "Cancelled"
+        }
+    ]
+}
