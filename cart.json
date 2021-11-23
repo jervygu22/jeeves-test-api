@@ -73,7 +73,7 @@
         },
         {
             "id": 2,
-            "transaction_name": "senior",
+            "transaction_name": "pwd",
             "percent": 0.15
         }
     ]
