@@ -18,8 +18,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -43,8 +43,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -68,8 +68,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -93,8 +93,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -118,8 +118,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -143,8 +143,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -168,8 +168,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -193,8 +193,8 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
@@ -218,12 +218,12 @@
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.00
-                },
-            ]
+                }
+            ],
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
             "status": ""
-        },
+        }
     ]
 }
