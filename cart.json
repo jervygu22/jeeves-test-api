@@ -1,0 +1,80 @@
+{
+    "cart" :
+    {
+        "id": 1,
+        "transaction_id": "BN_PT_pt1-1611110644126",
+        "date_time": "May 19, 2021 1:00pm",
+        "orders": [
+            {
+                "order_id": 1,
+                "product_name": "Black",
+                "qty": 3,
+                "sub_total": 135.75,
+                "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+            },
+            {
+                "order_id": 2,
+                "product_name": "Cortado",
+                "qty": 1,
+                "sub_total": 120.75,
+                "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+            },
+            {
+                "order_id": 3,
+                "product_name": "Latte",
+                "qty": 1,
+                "sub_total": 130.75,
+                "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+            },
+            {
+                "order_id": 4,
+                "product_name": "Filipino",
+                "qty": 3,
+                "sub_total": 420.75,
+                "image": "https://nrev.jp/wp-content/uploads/2021/03/Coffee-in-the-Philippines-Header.png"
+            },
+            {
+                "order_id": 5,
+                "product_name": "Italian",
+                "qty": 1,
+                "sub_total": 160.75,
+                "image": "https://www.summerinitaly.com/images/photos/travel_guide/2387.jpg"
+            },
+            {
+                "order_id": 6,
+                "product_name": "French",
+                "qty": 1,
+                "sub_total": 100.75,
+                "image": "https://upgradedhome.com/wp-content/uploads/2021/07/shutterstock_725803207.jpg"
+            },
+            {
+                "order_id": 7,
+                "product_name": "Mocha",
+                "qty": 3,
+                "sub_total": 420.75,
+                "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5"
+            }
+        ],
+        "cashier_info": "Maria Leonora Teresa",
+        "transaction_type": "Open",
+        "items": 7,
+        "status": ""
+    },
+    "transaction_type" : [
+        {
+            "id": 1,
+            "transaction_name": "regular",
+            "percent": 0
+        },
+        {
+            "id": 2,
+            "transaction_name": "senior",
+            "percent": 0.2
+        },
+        {
+            "id": 2,
+            "transaction_name": "senior",
+            "percent": 0.15
+        }
+    ]
+}
