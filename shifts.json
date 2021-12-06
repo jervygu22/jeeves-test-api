@@ -1,0 +1,104 @@
+{
+  "schedule": [
+    {
+      "id": 1,
+      "shift": 1,
+      "time": "6:00am"
+    },
+    {
+      "id": 2,
+      "shift": 1,
+      "time": "7:00am"
+    },
+    {
+      "id": 3,
+      "shift": 1,
+      "time": "8:00am"
+    },
+    {
+      "id": 4,
+      "shift": 1,
+      "time": "9:00am"
+    },
+    {
+      "id": 5,
+      "shift": 1,
+      "time": "10:00am"
+    },
+    {
+      "id": 1,
+      "shift": 2,
+      "time": "11:00pm"
+    },
+    {
+      "id": 2,
+      "shift": 2,
+      "time": "12:00pm"
+    },
+    {
+      "id": 4,
+      "shift": 2,
+      "time": "1:00pm"
+    },
+    {
+      "id": 5,
+      "shift": 2,
+      "time": "2:00pm"
+    },
+    {
+      "id": 6,
+      "shift": 2,
+      "time": "3:00pm"
+    },
+    {
+      "id": 1,
+      "shift": 3,
+      "time": "4:00pm"
+    },
+    {
+      "id": 2,
+      "shift": 3,
+      "time": "5:00pm"
+    },
+    {
+      "id": 3,
+      "shift": 3,
+      "time": "6:00pm"
+    },
+    {
+      "id": 4,
+      "shift": 3,
+      "time": "7:00pm"
+    },
+    {
+      "id": 5,
+      "shift": 3,
+      "time": "8:00pm"
+    },
+    {
+      "id": 1,
+      "shift": 4,
+      "time": "9:00pm"
+    },
+    {
+      "id": 2,
+      "shift": 4,
+      "time": "10:00pm"
+    },
+    {
+      "id": 3,
+      "shift": 4,
+      "time": "11:00pm"
+    },
+    {
+      "id": 4,
+      "shift": 4,
+      "time": "12:00am"
+    },
+    {
+      "id": 5,
+      "shift": 4,
+      "time": "1:00am"
+    }
+  ]
+}
