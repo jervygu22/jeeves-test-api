@@ -3,105 +3,105 @@
     "opening" : [
       {
         "id": 1,
-        "time": "5am"
+        "time": 5
       },
       {
         "id": 2,
-        "time": "6am"
+        "time": 6
       },
       {
         "id": 3,
-        "time": "7am"
+        "time": 7
       },
       {
         "id": 4,
-        "time": "8am"
+        "time": 8
       },
       {
         "id": 5,
-        "time": "9am"
+        "time": 9
       },
       {
         "id": 6,
-        "time": "10am"
+        "time": 10
       }
     ],
     "middle" : [
       {
         "id": 1,
-        "time": "10am"
+        "time": 10
       },
       {
         "id": 2,
-        "time": "11am"
+        "time": 11
       },
       {
         "id": 3,
-        "time": "12pm"
+        "time": 12
       },
       {
         "id": 4,
-        "time": "1pm"
+        "time": 13
       },
       {
         "id": 5,
-        "time": "2pm"
+        "time": 14
       },
       {
         "id": 6,
-        "time": "3pm"
+        "time": 15
       }
     ],
     "closing" : [
       {
         "id": 1,
-        "time": "3pm"
+        "time": 15
       },
       {
         "id": 2,
-        "time": "4pm"
+        "time": 16
       },
       {
         "id": 3,
-        "time": "5pm"
+        "time": 17
       },
       {
         "id": 4,
-        "time": "6pm"
+        "time": 18
       },
       {
         "id": 5,
-        "time": "7pm"
+        "time": 19
       },
       {
         "id": 6,
-        "time": "8pm"
+        "time": 20
       }
     ],
     "graveyard" : [
       {
         "id": 1,
-        "time": "8pm"
+        "time": 20
       },
       {
         "id": 2,
-        "time": "9pm"
+        "time": 21
       },
       {
         "id": 3,
-        "time": "10pm"
+        "time": 22
       },
       {
         "id": 4,
-        "time": "11pm"
+        "time": 23
       },
       {
         "id": 5,
-        "time": "12am"
+        "time": 0
       },
       {
         "id": 6,
-        "time": "1am"
+        "time": 1
       }
     ]
   }
