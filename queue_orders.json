@@ -51,7 +51,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Completed"
         },
         {
             "id": 2,
@@ -80,7 +80,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Pending"
         },
         {
             "id": 3,
@@ -109,7 +109,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Cancelled"
         },
         {
             "id": 4,
@@ -138,7 +138,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Completed"
         },
         {
             "id": 5,
@@ -167,7 +167,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Completed"
         },
         {
             "id": 6,
@@ -196,7 +196,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Pending"
         },
         {
             "id": 7,
@@ -225,7 +225,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Sent"
         },
         {
             "id": 8,
@@ -254,7 +254,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Sent"
         },
         {
             "id": 9,
@@ -283,7 +283,7 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": ""
+            "status": "Sent"
         }
     ]
 }
