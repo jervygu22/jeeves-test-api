@@ -1,0 +1,49 @@
+{
+  "shifts": [
+    {
+      "shift_code" : "opening",
+      "data": [
+        {
+          "id": 11,
+          "title": "full Shift",
+          "time": "08:00"
+        },
+        {
+          "id": 12,
+          "title": "full Shift",
+          "time": "08:00"
+        }
+      ]
+    },
+    {
+      "shift_code" : "mid",
+      "data": [
+        {
+          "id": 13,
+          "title": "mid Shift",
+          "time": "08:00"
+        },
+        {
+          "id": 14,
+          "title": "mid Shift",
+          "time": "08:00"
+        }
+      ]
+    },
+    {
+      "shift_code" : "closing",
+      "data": [
+        {
+          "id": 15,
+          "title": "close shift",
+          "time": "08:00"
+        },
+        {
+          "id": 16,
+          "title": "close shift",
+          "time": "08:00"
+        }
+      ]
+    }
+  ]
+}
