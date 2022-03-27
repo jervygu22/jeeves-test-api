@@ -51,7 +51,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Completed"
+            "status": "Completed",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 2,
@@ -80,7 +82,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Pending"
+            "status": "Pending",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 3,
@@ -109,7 +113,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Cancelled"
+            "status": "Cancelled",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 4,
@@ -138,7 +144,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Completed"
+            "status": "Completed",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 5,
@@ -167,7 +175,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Completed"
+            "status": "Completed",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 6,
@@ -196,7 +206,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Pending"
+            "status": "Pending",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 7,
@@ -225,7 +237,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Sent"
+            "status": "Sent",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 8,
@@ -254,7 +268,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Sent"
+            "status": "Sent",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         },
         {
             "id": 9,
@@ -283,7 +299,9 @@
             "cashier_info": "Maria Leonora Teresa",
             "transaction_type": "Open",
             "items": 3,
-            "status": "Sent"
+            "status": "Sent",
+            "cash_tendered": 1000.50,
+            "total_surcharge": 150.96 
         }
     ]
 }
